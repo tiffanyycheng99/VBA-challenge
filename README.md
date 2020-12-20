@@ -3,4 +3,4 @@
 
 Please find screenshots of each year result of Multi Year Stock Data in the Screenshots folder.
 
-Exported file can be found in StockDataScript
+Exported file can be found in StockDataScript.bas
